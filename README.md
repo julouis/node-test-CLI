@@ -11,6 +11,7 @@ Install package:
 
 Run the command
 > $ holidates
+
 > Follow the instructions
 
 
