@@ -37,7 +37,7 @@ rl.question("Country ? ", function (country) {
 				.catch(function (error) {
 					console.log(error);
 				});
-		}
+		} 
 
 		rl.close();
 	});
