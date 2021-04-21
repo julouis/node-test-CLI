@@ -6,7 +6,7 @@ const axios = require("axios").default;
 var data = process.argv;
 
 var year = data[3];
-var country = data [2];
+var country = data[2];
 
 var countryCode = getCode(country);
 
