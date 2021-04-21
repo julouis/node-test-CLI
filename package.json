@@ -1,6 +1,6 @@
 {
   "name": "@julouis/holidates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/julouis/node-test-CLI#readme",
   "bin": {
     "holidates": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0"
   }
 }
